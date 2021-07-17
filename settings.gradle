@@ -1,0 +1,3 @@
+rootProject.name = "Skin Cancer Detection Scanner"
+include ':app'
+include ':openCVLibrary3413'
